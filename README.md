@@ -1,4 +1,5 @@
 # Logistics routing program (Traveling salesman scenario)
-## nearest neighbor algorithim
-### Python
-With 40 deliveries - reach the shortest possible time and distance while delivering all packages 
+## About:
+* This program simulates a courrier company; planning, loading, and executing a day of deliveries
+* The idea is to achieve the shortest possible time and distance
+* 40 deliveries total to be completed
